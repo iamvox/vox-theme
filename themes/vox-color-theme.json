@@ -1867,7 +1867,6 @@
     "activityBar.inactiveForeground": "#00ff10",
     "activityBarBadge.foreground": "#000000",
     "activityBarBadge.background": "#00ff1c",
-    "activityBar.border": "#000000",
     "activityBar.activeBackground": "#000000",
     "activityBar.activeFocusBorder": "#00ff1c",
     "activityBar.activeBorder": "#00ff1c",
@@ -2138,5 +2137,6 @@
     "titleBar.activeBackground": "#2c2c2c00",
     "editorGhostText.border": "#00000000",
     "editorGhostText.foreground": "#ffffff93",
+    "activityBar.border": "#ff000000",
   }
 }
