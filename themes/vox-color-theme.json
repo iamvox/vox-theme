@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "support.class.component.tsx",
+      "scope": [
+        "support.class.component.tsx"
+      ],
+      "settings": {
+        "foreground": "#00ff10",
+      }
+    },
+    {
       "name": "support.class.component.js",
       "scope": [
         "support.class.component.js"
