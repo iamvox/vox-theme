@@ -2035,9 +2035,6 @@
     "tab.inactiveForeground": "#ffffff",
     "tab.hoverBackground": "#3d3d3d",
     "tab.hoverForeground": "#ffffff",
-    "scrollbarSlider.background": "#ffffff10",
-    "scrollbarSlider.hoverBackground": "#666666b3",
-    "scrollbarSlider.activeBackground": "#ffffff20",
     "progressBar.background": "#00ff10",
     "editorWidget.foreground": "#ffffff",
     "editorWidget.background": "#000000",
@@ -2147,5 +2144,8 @@
     "editorGhostText.border": "#00000000",
     "editorGhostText.foreground": "#ffffff93",
     "activityBar.border": "#ff000000",
+    "scrollbarSlider.background": "#ffffff50",
+    "scrollbarSlider.hoverBackground": "#ffffff70",
+    "scrollbarSlider.activeBackground": "#ffffff90"
   }
 }
