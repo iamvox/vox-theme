@@ -1887,10 +1887,10 @@
     "sideBarTitle.foreground": "#ffffff",
     "list.inactiveSelectionBackground": "#565658",
     "list.inactiveSelectionForeground": "#00ff10",
-    "list.hoverBackground": "#565658",
+    "list.hoverBackground": "#535353",
     "list.hoverForeground": "#ffffff",
     "list.inactiveFocusBackground": "#565658",
-    "list.activeSelectionBackground": "#565658",
+    "list.activeSelectionBackground": "#535353",
     "tree.indentGuidesStroke": "#00ff10",
     "list.dropBackground": "#565658",
     "list.highlightForeground": "#00ff10",
@@ -2146,6 +2146,6 @@
     "activityBar.border": "#ff000000",
     "scrollbarSlider.background": "#ffffff50",
     "scrollbarSlider.hoverBackground": "#ffffff70",
-    "scrollbarSlider.activeBackground": "#ffffff90"
+    "scrollbarSlider.activeBackground": "#ffffff90",
   }
 }
